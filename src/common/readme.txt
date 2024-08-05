@@ -1,0 +1,1 @@
+thư mục common chưa cái file setup một số giá trọ của validation
